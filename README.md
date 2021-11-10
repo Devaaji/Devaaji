@@ -37,10 +37,10 @@
  <img src="https://img.shields.io/badge/-Devaaji-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devaaji5@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/deva-aji-saputra-95aa2313b/">
- <img src="https://img.shields.io/badge/-devaaji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+ <img src="https://img.shields.io/badge/-devaaji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deva-aji-saputra-95aa2313b/"/>
 </a>
- <a href="https://twitter.com/ritikhere307">
- <img src="https://img.shields.io/badge/-devaaji-blue?style=flat-square&logo=instagram&logoColor=white&link=https://twitter.com/ritikhere307"/>
+ <a href="https://www.instagram.com/devaajisaputra/">
+ <img src="https://img.shields.io/badge/-devaaji-blue?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/devaajisaputra"/>
 </a>
 </p>
 

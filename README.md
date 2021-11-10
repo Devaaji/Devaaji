@@ -4,7 +4,6 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/devaaji"/> 
  <img src="https://badges.pufler.dev/repos/devaaji"/>
  <img src="https://badges.pufler.dev/commits/monthly/devaaji" />
 

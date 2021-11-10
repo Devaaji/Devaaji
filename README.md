@@ -28,7 +28,7 @@
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
- <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+ <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
 </p>
 
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
